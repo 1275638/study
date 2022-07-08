@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01helloworld.c">
+    <ClCompile Include="helloword.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-#include <stdio.h>
+#include<stdio.h>
 //导入一个文件  stdio.h std是一个标准库 i input o output   标准输入输出库 .h 头文件
 //<>表示导入系统文件 "" 表示导入自定义文件
 
@@ -12,10 +12,11 @@
 //int 数据类型  整型 如果出现在函数中表示函数的返回值
 //main 程序的主函数  程序有且只有一个主函数 ()里面表示函数的参数 函数的参数可以有多个 中间用逗号分隔
 
+
 int main()
 {
 	//{} 函数体 代码体 程序体
-	//printf 是stdio.h中系统提供的函数 表示在标准输出设备上打印字符串 
+	//printf 是stdio.h中系统提供的函0数 表示在标准输出设备上打印字符串 
 	//"" 称为字符串 ;一条语句的结束
 	printf("hello world!");
 	//return 如果出现在其他函数中表示函数结束  如果出现在main 函数中表示程序结束
